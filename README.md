@@ -78,7 +78,7 @@ Open **http://localhost:5173** in your browser.
 
 - **Auto-populate Analysis** — Currently the `analysis` field (reason, issue, suggestion) is hardcoded per EOB. In production, this could be generated dynamically by an AI model that reads the EOB financials and payer rules, so every new claim gets an instant analysis without manual entry.
 
-### 🛠️ General Improvements
+###  General Improvements
 
 - **Loading skeletons** instead of a plain spinner
 - **Pagination / filtering** on the patient list for large datasets
